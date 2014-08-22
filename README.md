@@ -76,6 +76,7 @@ Desktop publishing (Quark Xpress, InDesign), ebook conversion, proof-reading, pr
 **(2007-2011)**
 
 Asian language and culture degree
+
 Languages: Chinese, English, Korean, Hindi
 
 ###High school
