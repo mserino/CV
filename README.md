@@ -36,7 +36,7 @@ When I was 13 years old I taught myself how to use HTML and CSS, and in the foll
 
 ##Experience
 
-###[Carocci editore](http://www.carocci.it/) (University Publishing)
+####[Carocci editore](http://www.carocci.it/) (University Publishing)
 **(february 2013 - march 2014)**
 
 - Design and creations of page layouts for print and digital contents
@@ -44,32 +44,32 @@ When I was 13 years old I taught myself how to use HTML and CSS, and in the foll
 - Data preparation for printing
 - Ebook creation and/or conversion
 
-###[ePubmatic](http://www.epubmatic.com/it/default.htm) (Professional eBook Conversion Services)
+####[ePubmatic](http://www.epubmatic.com/it/default.htm) (Professional eBook Conversion Services)
 **(2013 - freelance)**
 
 Conversion of documents from .doc or .txt format to ePub or iBooks (Apple)
 
 ##Education
 
-###[Makers Academy](http://www.makersacademy.com) (Learn to code in 12 weeks)
+####[Makers Academy](http://www.makersacademy.com) (Learn to code in 12 weeks)
 **(12 may - 1st august 2014)**
 
 Makers Academy is a highly selective, 12 week full-time programme that teaches web development in London.
 
 Ruby on Rails, HTML5 and CSS3, Javascript and JQuery, Git and Heroku, Software Design
 
-##[Oblique Studio](http://www.oblique.it/) (Publishing copyreader programme - Italy)
+###[Oblique Studio](http://www.oblique.it/) (Publishing copyreader programme - Italy)
 **(september - december 2012)**
 
 Desktop publishing (Quark Xpress, InDesign), ebook conversion, proof-reading, press agency, manuscript evaluation, editing, translation redaction, graphic design, promotion, distribution
 
-##Sapienza - University of Rome
+###Sapienza - University of Rome
 **(2007-2011)**
 
 Asian language and culture degree
 Languages: Chinese, English, Korean, Hindi
 
-##High school
+###High school
 **(2001-2006)**
 
 Liceo scientifico statale Augusto Righi, via Boncompagni, Roma (Italy)
