@@ -1,7 +1,7 @@
 Margherita Serino
 ==========
 
-![Margherita Serino](https://dl.dropboxusercontent.com/u/79955713/github/10004020_10203190388749784_99441078_n.jpg 250x)
+![Margherita Serino](https://dl.dropboxusercontent.com/u/79955713/github/10004020_10203190388749784_99441078_n.jpg)
 
 I'm a junior web developer, I love to *make* things, not only websites, but also actual things like scarves, bracelets, necklaces, everything that gives me the opportunity to *create*.
 I'm very passionate about technology, and the web in particular.
