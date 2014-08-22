@@ -58,7 +58,7 @@ Makers Academy is a highly selective, 12 week full-time programme that teaches w
 
 Ruby on Rails, HTML5 and CSS3, Javascript and JQuery, Git and Heroku, Software Design
 
-###[Oblique Studio](http://www.oblique.it/) (Publishing copyreader programme - Italy)
+####[Oblique Studio](http://www.oblique.it/) (Publishing copyreader programme - Italy)
 **(september - december 2012)**
 
 Desktop publishing (Quark Xpress, InDesign), ebook conversion, proof-reading, press agency, manuscript evaluation, editing, translation redaction, graphic design, promotion, distribution
