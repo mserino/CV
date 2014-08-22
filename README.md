@@ -73,14 +73,14 @@ Ruby on Rails, HTML5 and CSS3, Javascript and JQuery, Git and Heroku, Software D
 
 Desktop publishing (Quark Xpress, InDesign), ebook conversion, proof-reading, press agency, manuscript evaluation, editing, translation redaction, graphic design, promotion, distribution
 
-###Sapienza - University of Rome
+####Sapienza - University of Rome
 **(2007-2011)**
 
 Asian language and culture degree
 
 Languages: Chinese, English, Korean, Hindi
 
-###High school
+####High school
 **(2001-2006)**
 
 Liceo scientifico statale Augusto Righi, via Boncompagni, Roma (Italy)
