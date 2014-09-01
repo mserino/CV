@@ -2,8 +2,7 @@ Margherita Serino
 ==========
 Born on 23 december 1987 in Rome, Italy, currently living in London, UK
 
-I'm a junior web developer, I love to *make* things, not only websites, but also actual things like scarves, bracelets, necklaces, everything that gives me the opportunity to *create*.
-I'm very passionate about technology, and the web in particular.
+I'm a junior web developer, very passionate about technology, and the web in particular.
 I always try to be happy and positive, and push myself to the limits.
 
 Take a look at my code on [Github](http://github.com/mserino)
