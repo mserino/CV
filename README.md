@@ -9,7 +9,6 @@ Take a look at my code on [Github](http://github.com/mserino)
 
 ###Contacts:
 - email: serino.marghe@gmail.com
-- phone: +44 7404992798
 - github: [http://github.com/mserino](http://github.com/mserino)
 - linkedin: [http://linkedin.com/in/margheritaserino](http://linkedin.com/in/margheritaserino)
 - twitter: [@ShinyMali](https://twitter.com/ShinyMali)
