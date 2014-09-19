@@ -53,6 +53,8 @@ Strides is a web app that helps marathon runners find suitable accommodation for
 
 Built on the last two weeks of [Makers Academy](http://www.makersacademy.com) in group with [Julia Tan](https://github.com/juliatan) and [Nic Yeeles](https://github.com/nyeeles)
 
+**Technologies used**: Ruby, Rails, Postgresql, Capybara, Rspec, Javascript, jQuery, Poltergeist, Angular JS, Bootstrap UI, Google Maps API (via gmaps.js), Expedia API, Git, Heroku, Devise, Twilio, Mustache.js, Mailcatcher
+
 ####[Carocci editore](http://www.carocci.it/) (University Publishing)
 **(february 2013 - march 2014)**
 
