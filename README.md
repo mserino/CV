@@ -17,6 +17,9 @@ Take a look at my code on [Github](http://github.com/mserino)
 |[Strides](https://github.com/mserino/Strides)|[Boris Bikes](https://github.com/mserino/Boris-Bikes)|[Chitter](https://github.com/mserino/Chitter)|
 |:----------|:----------|:----------|
 |Strides is a web application that helps marathon runners to find hotels near starting or ending point of the race.| Test driven object oriented program which simulates a bike renting system|Clone of Twitter, allows you and your friends to leave posts.|
+|:----------|:----------|:----------|
+|[Boris Bikes in Python](https://github.com/mserino/python-bikes)| | |
+|Object Oriented exercise written in Python, simulates a bike renting system| | |
 
 ##Web Development
 When I was 13 years old I taught myself how to use HTML and CSS, and in the following years I learned how to use Adobe suite. But I wanted to learn how to create websites for real, so I moved to London from Rome (where I'm from) and I joined [Makers Academy](http://www.makersacademy.com), a 12-week programme that teaches web development. **12 may - 1st august 2014**
