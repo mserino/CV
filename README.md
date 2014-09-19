@@ -48,7 +48,9 @@ When I was 13 years old I taught myself how to use HTML and CSS, and in the foll
 
 ###[Strides](https://github.com/mserino/Strides)
 **(21-31 july 2014)**
+
 Strides is a web app that helps marathon runners find suitable accommodation for their upcomming race.
+
 Built on the last two weeks of [Makers Academy](http://www.makersacademy.com) in group with [Julia Tan](https://github.com/juliatan) and [Nic Yeeles](https://github.com/nyeeles)
 
 ####[Carocci editore](http://www.carocci.it/) (University Publishing)
