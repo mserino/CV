@@ -55,6 +55,10 @@ Built on the last two weeks of [Makers Academy](http://www.makersacademy.com) in
 
 **Technologies used**: Ruby, Rails, Postgresql, Capybara, Rspec, Javascript, jQuery, Poltergeist, Angular JS, Bootstrap UI, Google Maps API (via gmaps.js), Expedia API, Git, Heroku, Devise, Twilio, Mustache.js, Mailcatcher
 
+Open source: [Github repository](https://github.com/mserino/Strides)
+
+Live website: [Strides](http://strides.herokuapp.com)
+
 ####[Carocci editore](http://www.carocci.it/) (University Publishing)
 **(february 2013 - march 2014)**
 
