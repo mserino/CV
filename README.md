@@ -17,6 +17,7 @@ Take a look at my code on [Github](http://github.com/mserino)
 |[Strides](https://github.com/mserino/Strides)|[Boris Bikes](https://github.com/mserino/Boris-Bikes)|[Chitter](https://github.com/mserino/Chitter)|
 |:----------|:----------|:----------|
 |Strides is a web application that helps marathon runners to find hotels near starting or ending point of the race.| Test driven object oriented program which simulates a bike renting system|Clone of Twitter, allows you and your friends to leave posts.|
+|:----------|:----------|:----------|
 | |[Boris Bikes in Python](https://github.com/mserino/python-bikes)| |
 | |Python Version of Boris Bikes, test-driven object oriented program which simulates a bike renting system| |
 
