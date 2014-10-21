@@ -13,6 +13,9 @@ Take a look at my code on [Github](http://github.com/mserino)
 - linkedin: [http://linkedin.com/in/margheritaserino](http://linkedin.com/in/margheritaserino)
 - twitter: [@ShinyMali](https://twitter.com/ShinyMali)
 
+##Web Development
+When I was 13 years old I taught myself how to use HTML and CSS, and in the following years I learned how to use Adobe suite. But I wanted to learn how to create websites for real, so I moved to London from Rome (where I'm from) and I joined [Makers Academy](http://www.makersacademy.com), a 12-week programme that teaches web development. **12 may - 1st august 2014**
+
 ##Code examples
 |[Strides](https://github.com/mserino/Strides)|[Boris Bikes](https://github.com/mserino/Boris-Bikes)|[Chitter](https://github.com/mserino/Chitter)|
 |:----------|:----------|:----------|
@@ -20,25 +23,19 @@ Take a look at my code on [Github](http://github.com/mserino)
 | |[Boris Bikes in Python](https://github.com/mserino/python-bikes)| |
 | |Python Version of Boris Bikes, test-driven object oriented program which simulates a bike renting system| |
 
-##Web Development
-When I was 13 years old I taught myself how to use HTML and CSS, and in the following years I learned how to use Adobe suite. But I wanted to learn how to create websites for real, so I moved to London from Rome (where I'm from) and I joined [Makers Academy](http://www.makersacademy.com), a 12-week programme that teaches web development. **12 may - 1st august 2014**
-
 ##Skills:
 - Ruby 2.1.1
 - Ruby on Rails 4
+- Sinatra
 - Python 3
 - Django
-- Sinatra
-- Test Driven Development (Unit test with RSpec and Jasmine, integration test with Capybara and Poltergeist - Factory Girl)
-- Javascript, jQuery, Ajax (GMaps.js)
-- User authentication and authorisation with Devise, Bcrypt
-- Other Ruby gems: Paperclip, Nokogiri, Twilio, Stripe
-- APIs
-- Websockets
+- Javascript, jQuery, Ajax
+- AngularJs
+- NodeJs
+- Test Driven Development (Unit test with RSpec, Jasmine, integration test with Capybara, Protractor)
 - PostgreSQL (Data Mapper, Active Record)
-- HTML5 and ERB
+- HTML5
 - CSS3 and Sass
-- Twitter Bootstrap
 - Adobe suite (Photoshop, Illustrator, InDesign)
 - Version control with Git and Github
 - Deployment to Heroku
@@ -48,7 +45,16 @@ When I was 13 years old I taught myself how to use HTML and CSS, and in the foll
 
 ##Experience
 
-###[Strides](https://github.com/mserino/Strides)
+####[Makers Academy](http://www.makersacademy.com)
+**(september - october 2014)**
+
+Position: **Teacher Assistant**
+
+Coach current students, pair with them, support on the projects.
+
+(Ruby, Rails, Sinatra, Javascript, jQuery, Nodejs, Github, Heroku, Command Line, TDD, HTML5, CSS3, PostgreSQL)
+
+####[Strides](https://github.com/mserino/Strides)
 **(21-31 july 2014)**
 
 Strides is a web app that helps marathon runners find suitable accommodation for their upcomming race.
