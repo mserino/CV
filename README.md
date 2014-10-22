@@ -50,7 +50,7 @@ When I was 13 years old I taught myself how to use HTML and CSS, and in the foll
 
 Position: **Teacher Assistant**
 
-Coach current students, pair with them, support on the projects.
+Assist Makers Academy teacher in coaching students, pairing and supporting on the projects.
 
 (Ruby, Rails, Sinatra, Javascript, jQuery, Nodejs, Github, Heroku, Command Line, TDD, HTML5, CSS3, PostgreSQL)
 
