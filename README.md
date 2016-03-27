@@ -1,107 +1,59 @@
-Margherita Serino
-==========
-Born on 23 december 1987 in Rome, Italy, currently living in London, UK
+# Margherita "Maggie" Serino
+Frontend Developer at **Deloitte Digital**  
 
-I'm a junior web developer, very passionate about technology, and the web in particular.
-I always try to be happy and positive, and push myself to the limits.
+Date of birth: 23 December 1987  
+Place of birth: Rome, Italy  
+Currently living in: London, United Kingdom 
 
-Take a look at my code on [Github](http://github.com/mserino)
+### Contacts
+email: [serino.marghe@gmail.com](serino.marghe@gmail.com)  
+github: [http://github.com/mserino](http://github.com/mserino)  
+linkedin: [http://linkedin.com/in/margheritaserino](http://linkedin.com/in/margheritaserino)  
+twitter: [@ShinyMali](https://twitter.com/ShinyMali)  
 
-###Contacts:
-- email: serino.marghe@gmail.com
-- github: [http://github.com/mserino](http://github.com/mserino)
-- linkedin: [http://linkedin.com/in/margheritaserino](http://linkedin.com/in/margheritaserino)
-- twitter: [@ShinyMali](https://twitter.com/ShinyMali)
+## About me
+I am a Frontend developer, very passionate about all kind of technologies and coding, in particular of Frontend techs like Javascript, HTML and CSS. I like developing clean and good looking web pages, I think that the usability and appearance of a website is as important as its functionality. I like studying user experience psychology and apply it on the work I do. I always try to deliver clean, readable and tested code.  
+When I was a teenager I taught myself how to use HTML and CSS, and in the following years I learned how to use the Adobe suite (Photoshop in particular). I got my bachelor degree in Asian studies (Chinese language as a major), and started working in a university publishing company in Italy, but then I realised that I still wanted to learn how to code, and in May '14 I moved to London and joined [Makers Academy](http://www.makersacademy.com), a 12-weeks programme that teaches people how to code. It changed my life. I now work as a Frontend Developer for Deloitte Digital, in London.  
+Other than coding, I love books, science fiction and fantasy in particular, but I'm starting to be interested in non-fiction books about personal development. I have a weird passion for everything that concerns Space (especially the International Space Station) and I love animals, dogs and ducks in particular.  
+I am a people person, I like making friends and helping others whenever I can. At my current workplace, I've been nominated the "Chief Social Officer", because I like organising socials and feel good in aggregating people, including everyone in the circle and making friends. The only person I am competitive with is myself, but I think that failure doesn't exist, we are all here to learn as much as we can.  
+I still think that I could be an astronaut, if only I were a couple of centimeters taller.
 
-##Web Development
-When I was 13 years old I taught myself how to use HTML and CSS, and in the following years I learned how to use Adobe suite. But I wanted to learn how to create websites for real, so I moved to London from Rome (where I'm from) and I joined [Makers Academy](http://www.makersacademy.com), a 12-week programme that teaches web development. **12 may - 1st august 2014**
+## Experience
+####[Deloitte Digital](https://eu.deloittedigital.com/en/home)
+**January 2015 - current **  
+Position: **Frontend Developer (Consultant)**
 
-##Code examples
-|[Strides](https://github.com/mserino/Strides)|[Boris Bikes](https://github.com/mserino/Boris-Bikes)|[Chitter](https://github.com/mserino/Chitter)|
-|:----------|:----------|:----------|
-|Strides is a web application that helps marathon runners to find hotels near starting or ending point of the race.| Test driven object oriented program which simulates a bike renting system|Clone of Twitter, allows you and your friends to leave posts.|
-| |[Boris Bikes in Python](https://github.com/mserino/python-bikes)| |
-| |Python Version of Boris Bikes, test-driven object oriented program which simulates a bike renting system| |
-
-##Skills:
-- Ruby 2.1.1
-- Ruby on Rails 4
-- Sinatra
-- Python 3
-- Django
-- Javascript, jQuery, Ajax
-- AngularJs
-- NodeJs
-- Test Driven Development (Unit test with RSpec, Jasmine, integration test with Capybara, Protractor)
-- PostgreSQL (Data Mapper, Active Record)
-- HTML5
-- CSS3 and Sass
-- Adobe suite (Photoshop, Illustrator, InDesign)
-- Version control with Git and Github
-- Deployment to Heroku
-- Agile values, principles and practice
-- Object Oriented principles and design
-- Pair programming
-
-##Experience
+Deliver high quality code for worldwide known clients with an eCommerce team. Working with Frontend technologies like Javascript (Flight.js, Node, Grunt, Bower, jQuery), CSS3 (Sass, BEM), HTML5 (Accessibility standards, Responsive web Design, Twitter Bootstrap), fully tested (Jasmine, PhantomJs), integrated with Java backend platform (Spring MVC, Hybris, Oracle database, Maven/Gradle), using source control tools (Git, Bitbucket), and Agile methodology (Jira).
 
 ####[Makers Academy](http://www.makersacademy.com)
-**(september - october 2014)**
-
+**September - October 2014**  
 Position: **Teacher Assistant**
 
-Assist Makers Academy teacher in coaching students, pairing and supporting on the projects.
+Assist Makers Academy teachers in coaching students, pairing and supporting with the projects.
+Technologies used: Ruby, Ruby on Rails, Sinatra, Javascript, jQuery, Node.js, Github, Heroku, TDD, HTML5, CSS3, PostgreSQL.
 
-(Ruby, Rails, Sinatra, Javascript, jQuery, Nodejs, Github, Heroku, Command Line, TDD, HTML5, CSS3, PostgreSQL)
+####[Carocci Editore](http://www.carocci.it) (University Publishing)
+**February 2013 - March 2014**  
+Position: **Desktop Publisher**
 
-####[Strides](https://github.com/mserino/Strides)
-**(21-31 july 2014)**
+Carocci Editore is one of the main university press publisher in Italy.  
+My role: design and creation of page layouts for print and digital contents, creation of diagrams and other design elements, data preparation for printing, eBook creation and/or conversion.
 
-Strides is a web app that helps marathon runners find suitable accommodation for their upcomming race.
+####[ePubmatic](https://www.epubmatic.com/) (Professional eBook conversion services)
+**2013 - Freelance**  
+Document conversion from .doc, .pdf or .txt format to ePub, mobi or iBooks.
 
-Built on the last two weeks of [Makers Academy](http://www.makersacademy.com) in group with [Julia Tan](https://github.com/juliatan) and [Nic Yeeles](https://github.com/nyeeles)
-
-**Technologies used**: Ruby, Rails, Postgresql, Capybara, Rspec, Javascript, jQuery, Poltergeist, Angular JS, Bootstrap UI, Google Maps API (via gmaps.js), Expedia API, Git, Heroku, Devise, Twilio, Mustache.js, Mailcatcher
-
-Open source: [Github repository](https://github.com/mserino/Strides)
-
-Live website: [Strides](http://strides.herokuapp.com)
-
-####[Carocci editore](http://www.carocci.it/) (University Publishing)
-**(february 2013 - march 2014)**
-
-- Design and creations of page layouts for print and digital contents
-- Creation of diagrams and other design elements
-- Data preparation for printing
-- Ebook creation and/or conversion
-
-####[ePubmatic](http://www.epubmatic.com/it/default.htm) (Professional eBook Conversion Services)
-**(2013 - freelance)**
-
-Conversion of documents from .doc or .txt format to ePub or iBooks (Apple)
-
-##Education
-
+## Education
 ####[Makers Academy](http://www.makersacademy.com) (Learn to code in 12 weeks)
-**(12 may - 1st august 2014)**
+**12 May - 1st August 2014**  
+Makers Academy is a highly selective 12 weeks full-time programme that teaches web development in London.
+Technologies: Ruby, Ruby on Rails, HTML5 and CSS3, Javascript, Node.js and jQuery, Git, Github and Heroku, Test Driven Development, Software Design.
 
-Makers Academy is a highly selective, 12 week full-time programme that teaches web development in London.
+####[Oblique Studio](http://www.oblique.it/) (Publishing copyreader and copywriter programme - Italy)
+**September - December 2012**  
+Desktop publishing (Quark Xpress, InDesign), ebook conversion, proof-reading, press agency, manuscript evaluation, editing, translation redaction, graphic design, promotion, distribution.
 
-Ruby on Rails, HTML5 and CSS3, Javascript and JQuery, Git and Heroku, Software Design
-
-####[Oblique Studio](http://www.oblique.it/) (Publishing copyreader programme - Italy)
-**(september - december 2012)**
-
-Desktop publishing (Quark Xpress, InDesign), ebook conversion, proof-reading, press agency, manuscript evaluation, editing, translation redaction, graphic design, promotion, distribution
-
-####Sapienza - University of Rome
-**(2007-2011)**
-
-Asian language and culture degree
-
+####Sapienza University of Rome
+**2007 - 2011**  
+Asian language and culture degree  
 Languages: Chinese, English
-
-####High school
-**(2001-2006)**
-
-Liceo scientifico statale Augusto Righi, via Boncompagni, Roma (Italy)
