@@ -40,7 +40,7 @@ Marketing and loyalty projects for national and international clients.
 
 
 #### [Deloitte Digital](https://eu.deloittedigital.com/en/home), London
-**January 2015 - May 2017 **  
+**January 2015 - May 2017**  
 Position: **Frontend Developer (Consultant)**
 
 Deliver eCommerce platforms for worldwide known clients.  
