@@ -1,5 +1,5 @@
 # Margherita "Maggie" Serino
-Frontend Developer at **Gruppo Roncaglia**  
+Frontend Developer at **Accenture Digital**, Rome, Italy  
 
 **Date of birth**: 23 December 1987  
 **Place of birth**: Rome, Italy  
@@ -19,7 +19,7 @@ I still think that I could be an astronaut, if only I were a couple of centimete
 
 ## Skills
 #### Programming
-**Frontend**: Javascript, HTML5, CSS3, Node.js, React, Meteor.js, jQuery, Ajax, Grunt, Bower, Webpack, Bootstrap, Sass, BEM, ES6, Responsive Web Design, Accessibility, SEO  
+**Frontend**: Javascript, HTML5, CSS3, Node.js, React.js, Angular.js, Meteor.js, jQuery, Ajax, Grunt, Bower, Webpack, Bootstrap, Sass, BEM, ES6, Responsive Web Design, Accessibility, SEO  
 **Tools**: Git, Agile, Bitbucket, Github, Jira, Test Driven Development, Heroku
 
 #### Languages
@@ -32,8 +32,14 @@ I still think that I could be an astronaut, if only I were a couple of centimete
 My experience in a consulting company helped me improving my team working skills. I contributed making important decision during projects, being part of discussion with my colleagues developers, the Business Analysts, and demoing to the client the pieces of softwar that we built during each Sprint.
 
 ## Experience
+#### [Accenture Digital](https://www.accenture.com/), Rome  
+**September 2017 - Current position**  
+Position: **Frontend Developer**  
+
+Deliver web application solutions for nation-wide known clients using latest technologies.  
+
 #### [Gruppo Roncaglia](http://www.grupporoncaglia.it), Rome
-**June 2017 - current position**  
+**June - August 2017**  
 Position: **Frontend Developer**  
 
 Marketing and loyalty projects for national and international clients.
