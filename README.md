@@ -7,7 +7,6 @@ Frontend Developer at **Accenture Digital**, Rome, Italy
 
 ### Contacts
 Email: margheritaserino87@gmail.com  
-Phone: (ITA) +393407310270  
 GitHub: [https://github.com/mserino](https://github.com/mserino)  
 GitLab: [@maggieserino](https://gitlab.com/maggieserino)  
 LinkedIn: [http://linkedin.com/in/margheritaserino](http://linkedin.com/in/margheritaserino)  
